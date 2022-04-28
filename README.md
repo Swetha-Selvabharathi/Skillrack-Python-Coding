@@ -1,3 +1,3 @@
 # Skillrack-Python-Coding
 
-This repository contains Skillrack Codes in Python
+This repository contains some Skillrack Codes in Python
